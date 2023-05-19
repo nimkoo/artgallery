@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start; /* Update to align-items: flex-start */
+    height: 200px;
+    color: #333;
+  }
+  
+  .header-title {
+    font-family: 'Playfair Display', serif;
+    margin-left: 20px;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 5px 20px 40px; /* Adjust the padding to add more spacing at the bottom */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  
