@@ -4,7 +4,7 @@ import './css/Gallery.css';
 
 const Gallery = ({ photos }) => {
     return (
-      <div className="gallery">
+      <div className="gallery-container">
         {photos.map((photo, index) => (
           <Photo
             key={index}
