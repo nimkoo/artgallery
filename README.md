@@ -1,2 +1,0 @@
-# artgallery
-visual artworks
